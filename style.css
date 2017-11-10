@@ -105,6 +105,7 @@ div.questions a.btn:hover {
 
 footer {
   border-bottom: 1px;
+  border-style: solid;
   border-color: #CCC;
   margin-top: 80px;
   padding-top: 20px;
