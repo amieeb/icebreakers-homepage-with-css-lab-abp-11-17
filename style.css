@@ -26,3 +26,8 @@ nav ul li{
   display: inline;
 }
 
+nav a {
+  text-decoration: underline;
+  color: #007bff;
+  font-size: 18px;
+}
