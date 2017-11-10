@@ -57,7 +57,10 @@ h3#header {
 }
 
 main {
-  margin: 20 px, 0, 0, 0;
+  margin-top: 20 px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0
 }
 
 div.jumbotron {
