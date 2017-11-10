@@ -10,11 +10,8 @@ padding-bottom: 0;
 }
 
 header {
-  height: 100px;
-  }
-
-header {
   border-bottom: 1px, solid, #CCC;
+  height: 100px;
   }
 
 header nav{
